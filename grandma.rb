@@ -9,6 +9,7 @@ def speak_to_grandma(phrase)
     puts "NO, NOT SINCE 1938!"
   end
 end
+speak_to_grandma(phrase)
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
